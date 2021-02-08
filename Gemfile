@@ -87,6 +87,6 @@ gem 'figaro'
 
 gem 'unirest'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 gem 'factory_bot'
